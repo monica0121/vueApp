@@ -3,4 +3,5 @@ Creating a new branch is quick and simple.
 Git is a free software...
 today is a special day!
 this is new words.
-这是一个新的段落。
+
+test git custom config.
